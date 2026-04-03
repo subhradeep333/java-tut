@@ -1,3 +1,11 @@
+// | Term            | Meaning                   |
+// | --------------- | ------------------------- |
+// | Linear Search   | Search element one by one |
+// | Time Complexity | O(n)                      |
+// | Best Case       | O(1)                      |
+// | Worst Case      | O(n)                      |
+
+
 import java.util.*;
 
 class linear_search{
