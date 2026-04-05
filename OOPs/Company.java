@@ -67,6 +67,7 @@ public class Company {
         System.out.println("--Programmer--");
         System.out.println("Enter salary: ");
         int s1 = sc.nextInt();
+        sc.nextLine();
         System.out.print("Enter name: ");
         String n1 = sc.nextLine();
         System.out.println("Enter address: ");
@@ -81,6 +82,7 @@ public class Company {
         System.out.println("--Manager--");
         System.out.println("Enter salary: ");
         int s2 = sc.nextInt();
+        sc.nextLine();
         System.out.print("Enter name: ");
         String n2 = sc.nextLine();
         System.out.println("Enter address: ");
@@ -95,6 +97,7 @@ public class Company {
         System.out.println("--Developer--");
         System.out.println("Enter salary: ");
         int s3 = sc.nextInt();
+        sc.nextLine();
         System.out.print("Enter name: ");
         String n3 = sc.nextLine();
         System.out.println("Enter address: ");
