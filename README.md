@@ -152,9 +152,9 @@ Loops • Conditionals • Arrays • Strings • Sorting • Searching • Patt
 <p align="center">
   <!-- Replace links & images with real contributors -->
   <a href="https://github.com/your-username">
-    <img src="https://github.com/your-username.png" width="80px" style="border-radius:50%">
+    <img src=".github/contributor image/Namrata.png" width="80px" style="border-radius:50%">
     <br>
-    <sub><b>Your Name</b></sub>
+    <sub><b>Namrata Kundu</b></sub>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
