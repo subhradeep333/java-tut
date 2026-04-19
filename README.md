@@ -1,4 +1,4 @@
-<h1 align="center">☕ Zero to Hero in Java</h1>
+<h1 align="center">Zero to Hero in Java</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8000,100:FF5E00&height=200&section=header&text=Zero%20to%20Hero%20in%20Java&fontSize=40&fontColor=ffffff" />
