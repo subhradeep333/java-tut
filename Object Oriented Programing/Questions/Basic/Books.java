@@ -38,7 +38,6 @@ class Books{
         String title;
         String author;
         int price;
-        int choice;
         System.out.print("Enter the name of the book: ");
         title = sc.nextLine();
         System.out.print("Enter the Author of the book: ");
